@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #/mood/humor/
 
-##Teste com Git e React kkk
+
 
 ## Available Scripts
 
