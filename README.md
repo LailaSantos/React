@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Se quiser conferir o resultado: https://pvqth.csb.app/ 
+
 
 #/mood/humor/
 
